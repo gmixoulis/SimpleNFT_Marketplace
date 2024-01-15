@@ -1,0 +1,77 @@
+#card-list {
+    /* border:1px solid blue; */
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    width: 90vw;
+    margin-bottom: 100px;
+}
+
+#tags {
+    display: inherit;
+}
+
+#years {
+    display: inherit;
+}
+
+@media screen and (min-width: 1025px )  and (max-width: 1958px) {
+    #card-list {
+        margin-left: 10rem;
+    }
+
+    #card-list-header-text {
+        margin-right: 50rem;
+        margin-bottom: 5rem;
+        font-weight: bolder;
+        -webkit-animation: glow 1s ease-in-out infinite alternate;
+        -moz-animation: glow 1s ease-in-out infinite alternate;
+        animation: glow 1s ease-in-out infinite alternate;
+    }
+
+    #filters {
+        margin-right: 30rem;
+
+    }
+
+    #tags {
+        display: grid;
+
+    }
+
+    #years {
+        display: grid;
+    }
+
+
+}
+
+@media screen and (min-width: 1958px) {
+    #card-list {
+        margin-left: 23rem;
+    }
+
+    #card-list-header-text {
+        margin-right: 26rem;
+        margin-bottom: 5rem;
+        font-weight: bolder;
+        -webkit-animation: glow 1s ease-in-out infinite alternate;
+        -moz-animation: glow 1s ease-in-out infinite alternate;
+        animation: glow 1s ease-in-out infinite alternate;
+    }
+
+    #filters {
+        margin-right: -26rem;
+    }
+
+    #tags {
+        display: grid;
+
+    }
+
+    #years {
+        display: grid;
+    }
+
+}

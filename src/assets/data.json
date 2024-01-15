@@ -1,0 +1,436 @@
+{
+  "lesson": "Web Development Skills",
+  "skills": [
+    {
+      "id": 1,
+      "title": "What is the certificate details process?",
+      "description": "Certificate details process involves validating the information displayed on the certificate through MetaU’s platform. This ensures that the certificate displays the correct and valid information. The process begins with the mint pass token holders connecting to the MetaU platform with the wallet holding the mint pass token. Then, they verify their personal data present in the existing database. The certificate details process allows token holders to ensure the accuracy of their data and choose the wallet where the final certificate will be minted."
+    },
+    {
+      "id": 2,
+      "title": " My data are wrong, what shall I do?",
+      "description": "If you find that the information in our records is incorrect, please send an email detailing the issue to our official email address nftcertificates@unic.ac.cy. This will initiate a dispute resolution process to correct the information."
+    },
+    {
+      "id": 3,
+      "title": " What is the outcome of the details verification step?",
+      "description": "Learn to use React.js, a popular JavaScript library, to build dynamic and reusable UI components."
+    },
+    {
+      "id": 4,
+      "title": "Web Design Principles",
+      "description": "Understand fundamental web design principles, including layout, typography, and color theory, to create visually appealing websites."
+    },
+    {
+      "id": 5,
+      "title": "Responsive Web Design",
+      "description": "Develop skills in creating responsive websites that adapt and look great on various devices and screen sizes."
+    },
+    {
+      "id": 6,
+      "title": "Version Control",
+      "description": "Learn to use version control systems like Git to manage and track changes in your code, collaborate with others, and easily revert changes if needed."
+    },
+    {
+      "id": 7,
+      "title": "Cross-Browser Compatibility",
+      "description": "Acquire knowledge of techniques and best practices to ensure your websites work consistently across different web browsers."
+    },
+    {
+      "id": 8,
+      "title": "Web Performance Optimization",
+      "description": "Learn strategies and techniques to optimize website performance, including file compression, caching, and image optimization, to provide a faster and smoother user experience."
+    }
+  ],
+  "courseContents": [
+    {
+      "id": 1,
+      "chapterName": "Web Development Fundamentals",
+      "lessons": [
+        {
+          "id": 1,
+          "lessonTitle": "Introduction to web development",
+          "videoDuration": "15:30",
+          "previewAvailable": false
+        },
+        {
+          "id": 2,
+          "lessonTitle": "HTML basics",
+          "videoDuration": "20:45",
+          "previewAvailable": true
+        },
+        {
+          "id": 3,
+          "lessonTitle": "CSS fundamentals",
+          "videoDuration": "18:15",
+          "previewAvailable": false
+        },
+        {
+          "id": 4,
+          "lessonTitle": "JavaScript essentials",
+          "videoDuration": "25:10",
+          "previewAvailable": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "chapterName": "Frontend Development",
+      "lessons": [
+        {
+          "id": 1,
+          "lessonTitle": "Responsive web design",
+          "videoDuration": "30:20",
+          "previewAvailable": true
+        },
+        {
+          "id": 2,
+          "lessonTitle": "CSS frameworks",
+          "videoDuration": "22:40",
+          "previewAvailable": false
+        },
+        {
+          "id": 3,
+          "lessonTitle": "JavaScript frameworks (e.g., React, Vue)",
+          "videoDuration": "45:55",
+          "previewAvailable": false
+        },
+        {
+          "id": 4,
+          "lessonTitle": "DOM manipulation",
+          "videoDuration": "28:10",
+          "previewAvailable": false
+        },
+        {
+          "id": 5,
+          "lessonTitle": "AJAX and API integration",
+          "videoDuration": "33:25",
+          "previewAvailable": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "chapterName": "Backend Development",
+      "lessons": [
+        {
+          "id": 1,
+          "lessonTitle": "Introduction to backend programming",
+          "videoDuration": "19:50",
+          "previewAvailable": true
+        },
+        {
+          "id": 2,
+          "lessonTitle": "Server-side scripting with Node.js",
+          "videoDuration": "24:15",
+          "previewAvailable": false
+        },
+        {
+          "id": 3,
+          "lessonTitle": "Database management (e.g., SQL, MongoDB)",
+          "videoDuration": "31:05",
+          "previewAvailable": true
+        },
+        {
+          "id": 4,
+          "lessonTitle": "API development and consumption",
+          "videoDuration": "29:30",
+          "previewAvailable": false
+        },
+        {
+          "id": 5,
+          "lessonTitle": "Authentication and security",
+          "videoDuration": "26:40",
+          "previewAvailable": true
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "chapterName": "Advanced Topics",
+      "lessons": [
+        {
+          "id": 1,
+          "lessonTitle": "Performance optimization",
+          "videoDuration": "17:55",
+          "previewAvailable": true
+        },
+        {
+          "id": 2,
+          "lessonTitle": "Web accessibility best practices",
+          "videoDuration": "23:20",
+          "previewAvailable": false
+        },
+        {
+          "id": 3,
+          "lessonTitle": "Testing and debugging",
+          "videoDuration": "27:40",
+          "previewAvailable": true
+        }
+      ]
+    }
+  ],
+  "extraContent": [
+    {
+      "id": 1,
+      "title": "Description",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+    },
+    {
+      "id": 2,
+      "title": "Prerequisites",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco"
+    },
+    {
+      "id": 2,
+      "title": "Other requirements",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco"
+    }
+  ],
+  "guestSpeakers": [
+    {
+      "name": "KEITH GROSSMAN",
+      "title": "President,",
+      "job": "TIME Magazine",
+      "img": "../assets/lecturers/Keith-Grossman-2.jpg"
+    },
+    {
+      "name": "FRED WILSON",
+      "title": "Co-Founder and Partner,",
+      "job": "Union Square Ventures",
+      "img": "../assets/lecturers/Fred-Wilson-1.jpg"
+    },
+    {
+      "name": "CHRIS DIXON",
+      "title": "General Partner,",
+      "job": "Andreessen Horowitz",
+      "img": "../assets/lecturers/Chris-Dixon-2.jpg"
+    },
+    {
+      "name": "YAT SIU",
+      "title": "Chairman,",
+      "job": "Animoca Brands",
+      "img": "../assets/lecturers/Yat-Siu-2.jpg"
+    },
+    {
+      "name": "ERICK / SNOWFRO",
+      "title": "Founder- Art Blocks,",
+      "job": "Creator - Squiggle",
+      "img": "../assets/lecturers/Erick-Snowfro.jpeg"
+    },
+    {
+      "name": "DMITRI CHERNIAK",
+      "title": "Founder- Art Blocks,",
+      "job": "Creator - Ringers",
+      "img": "../assets/lecturers/Dmitri-Cherniak.jpeg"
+    },
+    {
+      "name": "CLAIRE SILVER",
+      "title": "AI Artist.",
+      "job": "Co-founder of A2 Accelerate Art",
+      "img": "../assets/lecturers/Claire-Silver.jpg"
+    },
+    {
+      "name": "TYLER HOBBS",
+      "title": "Generative Artist,",
+      "job": "Creator of Fidenza",
+      "img": "../assets/lecturers/Tyler-Hobbs.jpg"
+    },
+    {
+      "name": "BALAJI SRINIVASAN",
+      "title": "General Partner - a16z",
+      "job": "Former CTO - Coinbase",
+      "img": "../assets/lecturers/Balaji-Srinivasan.jpg"
+    },
+    {
+      "name": "REUBEN WU",
+      "title": "Award-winning visual artist and music producer",
+      "job": "",
+      "img": "../assets/lecturers/Reuben-Wu.jpg"
+    },
+    {
+      "name": "GARGAMEL",
+      "title": "Co-Founder,",
+      "job": "Yuga Labs",
+      "img": "../assets/lecturers/Gargamel.jpg"
+    },
+    {
+      "name": "BEEPLE",
+      "title": "NFT Artist",
+      "job": "",
+      "img": "../assets/lecturers/beeple.jpg"
+    },
+    {
+      "name": "MATT DESLAURIERS",
+      "title": "Generative Artist,",
+      "job": "Creator of Subscapes",
+      "img": "../assets/lecturers/Matt-DesLauriers.jpg"
+    },
+    {
+      "name": "CHARLI COHEN",
+      "title": "Founder of RSTLSS",
+      "job": "",
+      "img": "../assets/lecturers/charlicohen.jpg"
+    },
+    {
+      "name": "BHARAT KRYMO",
+      "title": "Decentralization Maxi, NFT Collector, 6529 Capital of RSTLSS",
+      "job": "",
+      "img": "../assets/lecturers/Bharat-Krymo-2.jpg"
+    },
+    {
+      "name": "4156",
+      "title": "Co-Founder",
+      "job": "Nouns",
+      "img": "../assets/lecturers/Punk4156.jpg"
+    },
+    {
+      "name": "GMONEY",
+      "title": "NFT Collector",
+      "job": "Futurist. Disruptor. Ape.",
+      "img": "../assets/lecturers/gmoney-2.jpg"
+    },
+    {
+      "name": "HELENA SARIN",
+      "title": "Generative and GAN Artist",
+      "job": "",
+      "img": "../assets/lecturers/Helena-Sarin.jpg"
+    },
+    {
+      "name": "BATSOUPYUM",
+      "title": "Asset Manager, NFT Collector, 6529 Capital",
+      "job": "",
+      "img": "../assets/lecturers/BatSoupYum-2.jpg"
+    },
+    {
+      "name": "KEVIN ROSE",
+      "title": "Founder - PROOF Collective",
+      "job": "Partner - True Ventures",
+      "img": "../assets/lecturers/Kevin-Rose.png"
+    },
+    {
+      "name": "DRIFT",
+      "title": "Artist",
+      "job": "Army Special Operations Veteran",
+      "img": "../assets/lecturers/Drift.png"
+    },
+    {
+      "name": "SAM SPRATT",
+      "title": "Artist",
+      "job": "",
+      "img": "../assets/lecturers/Sam-Spratt.jpg"
+    },
+    {
+      "name": "SASHA STILES",
+      "title": "Metapoet, Artist, AI Researcher",
+      "job": "",
+      "img": "../assets/lecturers/Sasha-Stiles.jpg"
+    },
+    {
+      "name": "LOREN BEDNAR",
+      "title": "Generative Artist",
+      "job": "",
+      "img": "../assets/lecturers/Loren-Bednar.jpeg"
+    },
+    {
+      "name": "IX_SHELLS",
+      "title": "Generative NFT Artist",
+      "job": "",
+      "img": "../assets/lecturers/ix_shells.jpg"
+    },
+    {
+      "name": "AC",
+      "title": "Generative Art Collector, Founder, 6529 Capital",
+      "job": "",
+      "img": "../assets/lecturers/ac-pfp-1.jpg"
+    },
+    {
+      "name": "THOMAS BAILEY",
+      "title": "General Partner",
+      "job": "Road Capital Management",
+      "img": "../assets/lecturers/Thomas-Bailey-400x400.jpeg"
+    },
+    {
+      "name": "BONAFIDEHAN",
+      "title": "CEO",
+      "job": "Deca",
+      "img": "../assets/lecturers/BonaFideHan.jpg"
+    },
+    {
+      "name": "RAYAN BOUTALEB",
+      "title": "Founder and CEO.",
+      "job": "OnCyber",
+      "img": "../assets/lecturers/Rayan-Oncyber.jpg"
+    },
+    {
+      "name": "AARON WRIGHT",
+      "title": "Co-Founder Tribute Labs",
+      "job": "Professor Cardozo Law",
+      "img": "../assets/lecturers/Aaron-Wright.jpeg"
+    },
+    {
+      "name": "RICHERD",
+      "title": "Co-Founder of Manifold",
+      "job": "",
+      "img": "../assets/lecturers/Richerd.jpg"
+    },
+    {
+      "name": "VONMISES",
+      "title": "NFT Collector",
+      "job": "",
+      "img": "../assets/lecturers/VonMises-2.jpg"
+    }
+  ],
+  "faq": [
+    {
+      "id": 1,
+      "question": "What is the process to verify your certificate details?",
+      "answer": "The verification process enables holders of the META511 Mint Pass NFT to verify the details that are displayed on their certificate. Everyone needs to verify the wallet address where you will mint the certificate from. Additionally, if you have requested KYC or ENS verification (optional), you will need to verify the details we have on record (your real name or ENS address, as they will appear on the certificate). <li>  Failure to provide verification details for your held token ID will result in us capturing a snapshot of all token holders on the day when we compile the allowlist. Consequently, the public wallet address that owns the mint pass NFT will be exhibited as part of the Certificate name.</li>"
+    },
+    {
+      "id": 2,
+      "question": "What if I fail to provide certificate details?",
+      "answer": "Failure to provide verification details for your held token ID will result in us capturing a snapshot of all token holders on the day when we compile the allowlist. Consequently, the public wallet address that owns the mint pass NFT will be exhibited as part of the Certificate name."
+    },
+    {
+      "id": 3,
+      "question": "How do I verify my certificate details?",
+      "answer": "Follow these steps:<ul><li> 1. Go to <a href='https://metau-dev.unic.ac.cy/'>https://metau-dev.unic.ac.cy/</a>.</li><li> 2. Connect your wallet that contains the META511 Mint Pass NFT.</li><li> 3. Scroll down to 'Our Courses' section and select the META511 course.</li><li> 4. Scroll to the 'Certificate Details' section and click on 'Verify'. </li><li> 5. A pop-up form will appear with your record details:  <ul><li> &nbsp; &nbsp; -  Full Name/ENS: This will be displayed on the certificate. If both are shown as ‘unknown’, the certificate will contain your public Ethereum address. </li><li> &nbsp; &nbsp; - Exam Taker: This is the address where you took the course final exam from (if same as the META511 Mint Pass NFT holder). </li><li> &nbsp; &nbsp; - Mint Pass Holder: This is the address that owns the META511 Mint Pass NFT (can be the same or different from the Exam Taker address). </li><li>  &nbsp; &nbsp; - KYC or ENS Verification: Shows the status of your KYC or ENS verification process (optional, only if you want your real name OR ENS on the certificate). </li><li>  &nbsp; &nbsp; - Wallet allowed to mint: Here, you must choose the wallet from which you want to mint the final course certificate. It can be either the Exam Taker address, or the Mint Pass Holder address (see above), or a new Ethereum address that you own. This information will be associated with your held token ID.</li></ul></li><li> 6. Confirm you choices. Alternatively, you can dispute the above information, if something is not correct in our records (see “What should I do if my data is incorrect?” below).</li></ul>"
+    },
+    {
+      "id": 4,
+      "question": "I cannot see the 'Verify' button",
+      "answer": "Switch to a wallet address that holds the META511 Mint Pass NFT. Your details will be associated with that token ID."
+    },
+    {
+      "id": 5,
+      "question": "What should I do if my data is incorrect?",
+      "answer": "If the information we have on record is inaccurate (in case of the optional KYC or ENS verification), you should raise a dispute. To open a dispute, click the Dispute button and email us at <a href='mailto:nftcertificates@unic.ac.cy'>nftcertificates@unic.ac.cy</a> detailing the issue. "
+    },
+    {
+      "id": 6,
+      "question": "I would like to maintain my pseudonymous identity",
+      "answer": "Sure, no problem! If you desire to maintain your pseudonymity, simply complete the form to associate your token ID with a wallet address authorized to mint the course certificate for that specific token ID. <ul><li> &nbsp; &nbsp; - The certificate will feature your public wallet address, grade, and issuance date.</li><li> &nbsp; &nbsp; - Post-minting, all user identification details will be erased from our servers.</li></ul>"
+    },
+    {
+      "id": 7,
+      "question": "What is the outcome of the verification step?",
+      "answer": "Students who complete this step will help us to compile the allowlist for the final course certificate minting process."
+    },
+    {
+      "id": 8,
+      "question": "What happens if I don’t complete the verification?",
+      "answer": "You will still be able to mint the certificate, but with the details we currently hold on record for you. No changes will be possible after the deadline. "
+    },
+    {
+      "id": 9,
+      "question": "Until when should I complete the verification?",
+      "answer": "You must complete the process by Friday 25 August."
+    },
+    {
+      "id": 10,
+      "question": "What happens post-certificate details verification?",
+      "answer": "We will announce how to mint your META511 course certificate on X (formerly Twitter) and Discord on August 26."
+    }
+  ]
+}

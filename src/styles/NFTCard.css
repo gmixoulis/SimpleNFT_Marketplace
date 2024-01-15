@@ -1,0 +1,160 @@
+* {
+
+}
+
+.card {
+    margin-top: 50px;
+    margin-left: 15px;
+    margin-right: 15px;
+    width: 300px;
+    /* box-shadow: 0 15px 25px rgba(129, 124, 124, 0.2); */
+
+    height: 300px;
+    /* filter:blur(4px); */
+    /* background: radial-gradient(
+      circle,
+      rgba(255, 255, 255, 0.05) 0%,
+      #00f5c966 0%,
+      rgba(255, 255, 255, 0.05) 70%
+    ); */
+    padding: 10px;
+    text-align: center;
+}
+
+.nft-image {
+    width: 260px;
+    height: 260px;
+    margin-top: 5px;
+}
+
+.card {
+    animation: cardHoverAnimation 1s;
+    /* animation-iteration-count: infinite; */
+}
+
+.card:focus {
+    outline: none;
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    /* border:1px solid purple; */
+    margin-top: 20px;
+}
+
+.info-container > p {
+    text-align: left;
+}
+
+.info-container > .owner {
+    font-size: 12px;
+    font-weight: bold;
+    color: #c6c2c6;
+    padding-top: 5px;
+}
+
+.info-container > .name {
+    font-size: 14px;
+    font-weight: bold;
+    color: #ffffff;
+    padding-top: 10px;
+}
+
+.price-container > p {
+    color: #666c70;
+    text-align: left;
+}
+
+.price-container > .price-label {
+    font-size: 12px;
+    font-weight: bold;
+    color: #c6c2c6;
+    padding-top: 5px;
+}
+
+.price-container > .price {
+    font-size: 18px;
+    font-weight: bold;
+    color: #ffffff;
+    padding-top: 10px;
+}
+
+.buttons {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 35px;
+}
+
+.buy-now {
+    width: 80px;
+    height: 30px;
+    margin-left: 10px;
+    border: none;
+    background-color: transparent;
+    color: #ffffff;
+    border: 1px solid #ffffff;
+    border-radius: 15px;
+    cursor: pointer;
+}
+
+.buy-now:hover {
+    color: black;
+    background-color: #ffffff;
+}
+
+.like-container {
+    display: flex;
+    flex-direction: row;
+    margin-right: 10px;
+    text-align: center;
+}
+
+.like {
+    /* width: 30px; */
+    /* height: 30px; */
+    margin-right: 10px;
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    display: flex;
+    flex-direction: row;
+}
+
+.like-count {
+    font-size: 15px;
+    margin-top: 5px;
+    color: #ffffff;
+}
+
+@keyframes cardHoverAnimation {
+    0% {
+        background: radial-gradient(
+                circle,
+                rgba(255, 255, 255, 0.05) 0%,
+                rgba(0, 245, 201, 0.4) 0%,
+                rgba(255, 255, 255, 0.05) 70%
+        );
+    }
+
+    100% {
+        background: radial-gradient(
+                circle,
+                rgba(255, 255, 255, 0.05) 0%,
+                rgba(252, 0, 155, 0.425) 0%,
+                rgba(255, 255, 255, 0.05) 70%
+        );
+    }
+}
+
+model-viewer {
+    width: 240px;
+    height: 170px;
+}
+
+model-modelviewerelement {
+    width: 240px;
+    height: 170px;
+}

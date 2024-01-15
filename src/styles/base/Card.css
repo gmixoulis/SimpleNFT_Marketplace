@@ -1,0 +1,27 @@
+.card {
+    margin-top: 50px;
+    margin-left: 15px;
+    margin-right: 15px;
+    /* box-shadow: 0 15px 25px rgba(129, 124, 124, 0.2); */
+    /* filter:blur(4px); */
+    /* background: radial-gradient(
+        circle,
+        rgba(255, 255, 255, 0.05) 0%,
+        #00f5c966 0%,
+        rgba(255, 255, 255, 0.05) 70%
+      ); */
+    padding: 10px;
+    text-align: center;
+    object-fit: cover;
+    cursor: pointer;
+    transition: width 1s ease-in-out, height 0.5s ease-in-out !important;
+    -webkit-tap-highlight-color: transparent;
+}
+
+* {
+    font-family: "Open Sans", Arial, Helvetica, sans-serif;
+}
+
+.card:focus {
+    outline: none;
+}

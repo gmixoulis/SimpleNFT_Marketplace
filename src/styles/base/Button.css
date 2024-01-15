@@ -1,0 +1,19 @@
+
+* {
+    font-family: "Open Sans", Arial, Helvetica, sans-serif;
+}
+
+.default-button {
+    border: none;
+    background-color: transparent;
+    color: #ffffff;
+    border: 1px solid #ffffff;
+    border-radius: 15px;
+    cursor: pointer;
+    padding: 2px;
+}
+
+.default-button:hover {
+    color: black;
+    background-color: #ffffff;
+}

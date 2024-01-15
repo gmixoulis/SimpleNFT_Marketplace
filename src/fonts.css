@@ -1,0 +1,18 @@
+@font-face {
+    font-family: "OsnovaPro";
+    src: local("OsnovaPro"), url("./fonts/OsnovaPro-Regular.otf") format("otf");
+}
+
+@font-face {
+    font-family: "OsnovaProBold";
+    src: local("OsnovaProBold"),
+    url("./fonts/OSNOVAPRO-BOLD.OTF") format("opentype") format("otf");
+}
+
+@font-face {
+    font-family: "Helvetica";
+    src: local("Helvetica"),
+    url("./fonts/HelveticaNeueRegular.ttf") format("opentype") format("ttf");
+}
+
+

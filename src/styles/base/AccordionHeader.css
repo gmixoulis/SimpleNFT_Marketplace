@@ -1,0 +1,30 @@
+.accordion-header {
+    width: 100%;
+    font-family: "Open Sans", Arial, Helvetica, sans-serif;
+
+    color: #ffffff;
+    font-size: 18px;
+    /* border:1px solid red; */
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    padding: 0px;
+    margin-top: 15px;
+}
+
+#header-wrap.sticky nav.navbar {
+    background: #171a1d
+}
+
+.navbar-nav {
+    display: inline-block !important
+}
+
+.navbar-nav .nav-item a.active {
+    color: #cf1f1f
+}
+
+#mainContainer {
+    z-index: 0 !important;
+}
